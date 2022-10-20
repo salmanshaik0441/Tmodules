@@ -1,0 +1,10 @@
+######################################################################################################
+#
+# This file act as project configuration where developer can configure some of the configuration 
+# required to automate the build and deployment process.To know more
+# http://confluence.vodacom.co.za/display/SEC/Project+Configuration
+#
+######################################################################################################
+
+build:
+    build-type: TF_MODULE
